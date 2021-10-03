@@ -11,7 +11,7 @@ This README would normally document whatever steps are necessary to get your app
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 
-### How do I get set up? ###
+### How do I get set up? ### 
 
 * Summary of set up
 * Configuration
