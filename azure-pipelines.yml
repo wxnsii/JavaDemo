@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  dempbuild: demo
+  demo: dempbuild
 
 steps:
 - task: Maven@3
